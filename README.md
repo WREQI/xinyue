@@ -20,6 +20,7 @@ npm build
 
 # 指定平台的开发时构建(微信、百度、头条、支付宝)
 npm dev:wx
+
 npm dev:swan
 npm dev:tt
 npm dev:my
